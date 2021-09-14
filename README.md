@@ -1,3 +1,9 @@
+# Messenger App
+
+Made using React, Hosted on Firebase.
+
+Messages are synced in Real Time using Firestore database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
